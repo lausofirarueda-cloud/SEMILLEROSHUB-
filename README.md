@@ -146,7 +146,7 @@ Los responsables pueden presentar avances individuales o grupales; cada avance r
 
 El botón **Crear actividad** valida los campos obligatorios, guarda la información y abre el detalle. **Cancelar** regresa al listado y, si hay cambios sin guardar, pide confirmar que se desean descartar.
 
-![Crear actividad](docs/images/crear-actividad.png)
+![Crear actividad](docs/images/crear-actividad-1.png)
 
 ---
 
