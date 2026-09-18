@@ -40,7 +40,7 @@ Organiza los proyectos del semillero en tarjetas, cada una con nombre, descripci
 - **Crear proyecto** es exclusivo del profesor.
 - Los proyectos que continúan durante varios semestres conservan su historial.
 
-![Listado de proyectos](images/proyectos.png)
+![Listado de proyectos](docs/images/proyectos.png)
 
 ## 3. Crear proyecto
 
