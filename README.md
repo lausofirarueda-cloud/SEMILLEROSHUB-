@@ -29,7 +29,7 @@ Primera pantalla después de ingresar. Resume el trabajo del semillero durante e
 - **Comentarios privados**: indica mensajes nuevos dirigidos al profesor, sin mostrar su contenido en el resumen.
 - Botones superiores: **Crear proyecto** y **Ver informe semestral**.
 
-![Inicio del profesor](images/inicio-profesor.png)
+![Inicio del profesor](docs/images/inicio-profesor.png)
 
 ## 2. Listado de proyectos — Profesor
 
@@ -55,7 +55,7 @@ Registro de un proyecto en cuatro bloques:
 
 Al seleccionar **Crear proyecto** se validan los campos obligatorios y el documento adjunto; si todo está completo, se abre el detalle del proyecto.
 
-![Crear proyecto](images/crear-proyecto.png)
+![Crear proyecto](docs/images/crear-proyecto.png)
 
 ## 4. Detalle del proyecto — Resumen
 
@@ -66,7 +66,7 @@ Reúne descripción, objetivos, profesor responsable, fechas y estado del proyec
 - Columna lateral: participantes, avances pendientes, próxima entrega y últimas actualizaciones.
 - Pestañas: Resumen, Integrantes, Actividades, Avances, Productos, Convocatorias.
 
-![Detalle del proyecto](images/detalle-proyecto.png)
+![Detalle del proyecto](docs/images/detalle-proyecto.png)
 
 ## 5. Integrantes del proyecto — Estudiante
 
@@ -81,7 +81,7 @@ Vista de solo consulta. Permite ver:
 
 No permite cambiar estados ni identificar quién es auxiliar.
 
-![Integrantes - vista estudiante](images/integrantes-estudiante.png)
+![Integrantes - vista estudiante](docs/images/integrantes-estudiante.png)
 
 ## 6. Integrantes del proyecto — Profesor
 
@@ -93,7 +93,7 @@ Muestra los mismos datos que la vista de estudiante, pero agrega:
 
 Cuando un estudiante se retira, sus avances y aportes se conservan para mantener el historial y elaborar los informes.
 
-![Integrantes - vista profesor](images/integrantes-profesor.png)
+![Integrantes - vista profesor](docs/images/integrantes-profesor.png)
 
 ## 7. Iniciar sesión
 
@@ -126,7 +126,7 @@ Una misma actividad puede tener varios avances. Aprobar un avance no completa au
 - **Estudiante responsable**: presenta avances individuales o grupales (identificando autores y aportes en entregas grupales). Cada avance requiere descripción y **PDF obligatorio**.
 - **Auxiliar**: consulta avances y envía comentarios privados al profesor, sin aprobarlos. Si también participa en la actividad, puede presentar avances.
 
-![Actividades del proyecto](images/actividades-proyecto.png)
+![Actividades del proyecto](docs/images/actividades-proyecto.png)
 
 ## 9. Crear actividad
 
@@ -146,7 +146,7 @@ Los responsables pueden presentar avances individuales o grupales; cada avance r
 
 El botón **Crear actividad** valida los campos obligatorios, guarda la información y abre el detalle. **Cancelar** regresa al listado y, si hay cambios sin guardar, pide confirmar que se desean descartar.
 
-![Crear actividad](images/crear-actividad.png)
+![Crear actividad](docs/images/crear-actividad.png)
 
 ---
 
